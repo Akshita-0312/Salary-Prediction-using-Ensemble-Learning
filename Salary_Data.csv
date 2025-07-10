@@ -1,0 +1,376 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary,Remote Work Status,Industry,Company Size,City or Region
+32.0,Male,Bachelor's,Software Engineer,5.0,90000.0,On-site,Technology,Small,Hyderabad
+28.0,Female,Master's,Data Analyst,3.0,65000.0,Remote,Manufacturing,Small,Pune
+45.0,Male,PhD,Senior Manager,15.0,150000.0,On-site,Retail,Medium,Kolkata
+36.0,Female,Bachelor's,Sales Associate,7.0,60000.0,Remote,Healthcare,Small,Hyderabad
+52.0,Male,Master's,Director,20.0,200000.0,On-site,Technology,Large,Kolkata
+29.0,Male,Bachelor's,Marketing Analyst,2.0,55000.0,Remote,Healthcare,Small,Kolkata
+42.0,Female,Master's,Product Manager,12.0,120000.0,Remote,Education,Medium,Chennai
+31.0,Male,Bachelor's,Sales Manager,4.0,80000.0,Hybrid,Technology,Medium,Delhi
+26.0,Female,Bachelor's,Marketing Coordinator,1.0,45000.0,On-site,Technology,Medium,Mumbai
+38.0,Male,PhD,Senior Scientist,10.0,110000.0,On-site,Consulting,Large,Pune
+29.0,Male,Master's,Software Developer,3.0,75000.0,Hybrid,Healthcare,Large,Pune
+48.0,Female,Bachelor's,HR Manager,18.0,140000.0,On-site,Manufacturing,Large,Kolkata
+35.0,Male,Bachelor's,Financial Analyst,6.0,65000.0,Hybrid,Retail,Small,Mumbai
+40.0,Female,Master's,Project Manager,14.0,130000.0,On-site,Retail,Large,Mumbai
+27.0,Male,Bachelor's,Customer Service Rep,2.0,40000.0,On-site,Manufacturing,Large,Delhi
+44.0,Male,Bachelor's,Operations Manager,16.0,125000.0,Hybrid,Technology,Medium,Delhi
+33.0,Female,Master's,Marketing Manager,7.0,90000.0,Hybrid,Education,Small,Kolkata
+39.0,Male,PhD,Senior Engineer,12.0,115000.0,On-site,Finance,Small,Kolkata
+25.0,Female,Bachelor's,Data Entry Clerk,0.0,35000.0,Hybrid,Consulting,Small,Delhi
+51.0,Male,Bachelor's,Sales Director,22.0,180000.0,On-site,Education,Medium,Bangalore
+34.0,Female,Master's,Business Analyst,5.0,80000.0,Remote,Manufacturing,Small,Hyderabad
+47.0,Male,Master's,VP of Operations,19.0,190000.0,Remote,Education,Medium,Delhi
+30.0,Male,Bachelor's,IT Support,2.0,50000.0,On-site,Education,Large,Delhi
+36.0,Female,Bachelor's,Recruiter,9.0,60000.0,Remote,Consulting,Medium,Kolkata
+41.0,Male,Master's,Financial Manager,13.0,140000.0,On-site,Finance,Large,Mumbai
+28.0,Female,Bachelor's,Social Media Specialist,3.0,45000.0,Remote,Healthcare,Small,Bangalore
+37.0,Female,Master's,Software Manager,11.0,110000.0,Hybrid,Manufacturing,Large,Kolkata
+24.0,Male,Bachelor's,Junior Developer,1.0,40000.0,Remote,Technology,Large,Hyderabad
+43.0,Female,PhD,Senior Consultant,15.0,140000.0,Remote,Manufacturing,Medium,Kolkata
+33.0,Male,Master's,Product Designer,6.0,90000.0,On-site,Consulting,Small,Bangalore
+50.0,Male,Bachelor's,CEO,25.0,250000.0,Hybrid,Healthcare,Small,Delhi
+31.0,Female,Bachelor's,Accountant,4.0,55000.0,On-site,Technology,Medium,Kolkata
+29.0,Male,Master's,Data Scientist,3.0,75000.0,On-site,Consulting,Medium,Mumbai
+39.0,Female,Bachelor's,Marketing Specialist,10.0,65000.0,Remote,Retail,Small,Mumbai
+46.0,Male,PhD,Senior Manager,20.0,170000.0,Remote,Finance,Large,Kolkata
+27.0,Male,Bachelor's,Technical Writer,2.0,45000.0,Hybrid,Finance,Large,Chennai
+35.0,Female,Bachelor's,HR Generalist,7.0,60000.0,Hybrid,Finance,Large,Kolkata
+42.0,Male,Master's,Project Engineer,14.0,115000.0,Remote,Education,Large,Delhi
+26.0,Female,Bachelor's,Customer Success Rep,1.0,40000.0,On-site,Technology,Small,Chennai
+49.0,Male,Bachelor's,Sales Executive,21.0,160000.0,Hybrid,Retail,Small,Pune
+34.0,Female,Master's,UX Designer,5.0,80000.0,Remote,Education,Large,Hyderabad
+48.0,Male,Master's,Operations Director,18.0,190000.0,Remote,Consulting,Medium,Bangalore
+30.0,Male,Bachelor's,Network Engineer,3.0,60000.0,On-site,Healthcare,Medium,Delhi
+36.0,Female,Bachelor's,Administrative Assistant,8.0,45000.0,Hybrid,Technology,Small,Chennai
+41.0,Male,Master's,Strategy Consultant,13.0,130000.0,Remote,Consulting,Large,Hyderabad
+28.0,Female,Bachelor's,Copywriter,2.0,40000.0,On-site,Education,Small,Kolkata
+32.0,Male,Bachelor's,Account Manager,5.0,75000.0,On-site,Retail,Small,Hyderabad
+45.0,Female,Master's,Director of Marketing,16.0,180000.0,On-site,Consulting,Large,Bangalore
+38.0,Male,PhD,Senior Scientist,11.0,120000.0,Hybrid,Finance,Medium,Mumbai
+25.0,Male,Bachelor's,Help Desk Analyst,0.0,35000.0,Remote,Education,Medium,Bangalore
+51.0,Female,Bachelor's,Customer Service Manager,22.0,130000.0,Hybrid,Manufacturing,Large,Delhi
+33.0,Male,Master's,Business Intelligence Analyst,7.0,85000.0,On-site,Consulting,Large,Bangalore
+40.0,Female,Bachelor's,Event Coordinator,12.0,60000.0,On-site,Technology,Large,Pune
+47.0,Male,Master's,VP of Finance,19.0,200000.0,On-site,Manufacturing,Large,Bangalore
+29.0,Female,Bachelor's,Graphic Designer,3.0,50000.0,On-site,Finance,Small,Pune
+36.0,Male,Bachelor's,Sales Manager,9.0,95000.0,On-site,Healthcare,Small,Mumbai
+27.0,Female,Master's,UX Researcher,2.0,65000.0,On-site,Retail,Small,Bangalore
+43.0,Male,PhD,Senior Engineer,17.0,140000.0,On-site,Healthcare,Large,Mumbai
+30.0,Female,Bachelor's,Social Media Manager,4.0,55000.0,On-site,Technology,Large,Kolkata
+35.0,Male,Master's,Product Manager,7.0,105000.0,Remote,Consulting,Small,Mumbai
+51.0,Female,Master's,Director of Operations,23.0,170000.0,On-site,Consulting,Large,Mumbai
+29.0,Male,Bachelor's,Marketing Analyst,3.0,50000.0,On-site,Finance,Large,Chennai
+40.0,Female,Bachelor's,HR Manager,12.0,80000.0,Hybrid,Retail,Small,Hyderabad
+47.0,Male,PhD,Senior Data Scientist,21.0,180000.0,Hybrid,Education,Large,Chennai
+26.0,Male,Bachelor's,Junior Accountant,1.0,35000.0,Hybrid,Healthcare,Small,Bangalore
+38.0,Female,Master's,Digital Marketing Manager,10.0,90000.0,Remote,Healthcare,Large,Hyderabad
+46.0,Male,Bachelor's,IT Manager,19.0,120000.0,Hybrid,Finance,Large,Mumbai
+31.0,Female,Bachelor's,Customer Service Representative,5.0,45000.0,Remote,Finance,Small,Mumbai
+34.0,Male,Master's,Business Development Manager,8.0,90000.0,Hybrid,Finance,Large,Delhi
+49.0,Female,Master's,Senior Financial Analyst,18.0,150000.0,Hybrid,Manufacturing,Small,Bangalore
+33.0,Male,Bachelor's,Web Developer,6.0,65000.0,Remote,Technology,Small,Delhi
+39.0,Female,Bachelor's,Recruiter,11.0,70000.0,On-site,Technology,Small,Chennai
+45.0,Male,PhD,Research Director,16.0,190000.0,Hybrid,Retail,Small,Delhi
+28.0,Male,Bachelor's,Technical Support Specialist,2.0,40000.0,Remote,Technology,Large,Bangalore
+42.0,Female,Master's,Creative Director,14.0,120000.0,Hybrid,Manufacturing,Medium,Pune
+37.0,Male,Bachelor's,Project Manager,10.0,95000.0,On-site,Education,Medium,Hyderabad
+50.0,Female,Bachelor's,Operations Manager,22.0,160000.0,On-site,Healthcare,Large,Pune
+32.0,Male,Master's,Senior Software Engineer,6.0,100000.0,Remote,Manufacturing,Small,Delhi
+48.0,Female,Master's,Human Resources Director,20.0,180000.0,Hybrid,Finance,Large,Chennai
+30.0,Female,Bachelor's,Content Marketing Manager,3.0,55000.0,On-site,Consulting,Medium,Bangalore
+36.0,Male,Bachelor's,Technical Recruiter,8.0,70000.0,Hybrid,Retail,Small,Bangalore
+41.0,Female,Master's,Data Analyst,13.0,80000.0,Hybrid,Healthcare,Medium,Delhi
+25.0,Male,Bachelor's,Sales Representative,0.0,30000.0,Hybrid,Consulting,Medium,Hyderabad
+52.0,Male,PhD,Chief Technology Officer,24.0,250000.0,Remote,Healthcare,Large,Hyderabad
+29.0,Female,Bachelor's,Junior Designer,2.0,40000.0,Remote,Manufacturing,Small,Bangalore
+34.0,Female,Master's,Financial Advisor,10.0,95000.0,Remote,Education,Large,Mumbai
+27.0,Male,Bachelor's,Junior Account Manager,2.0,45000.0,Hybrid,Finance,Medium,Mumbai
+40.0,Female,Bachelor's,HR Generalist,15.0,80000.0,Remote,Education,Small,Bangalore
+46.0,Male,Master's,Senior Project Manager,21.0,135000.0,Remote,Education,Small,Chennai
+31.0,Female,Bachelor's,Marketing Coordinator,6.0,55000.0,Remote,Manufacturing,Large,Chennai
+36.0,Male,PhD,Principal Scientist,11.0,120000.0,Hybrid,Manufacturing,Medium,Mumbai
+29.0,Female,Bachelor's,Sales Associate,3.0,40000.0,Hybrid,Healthcare,Small,Bangalore
+43.0,Male,Bachelor's,Supply Chain Manager,18.0,105000.0,Remote,Retail,Small,Kolkata
+52.0,Female,Master's,Senior Marketing Manager,25.0,170000.0,Hybrid,Healthcare,Small,Kolkata
+33.0,Male,Bachelor's,Business Analyst,7.0,75000.0,On-site,Manufacturing,Small,Kolkata
+39.0,Female,Bachelor's,Training Specialist,12.0,65000.0,On-site,Technology,Small,Mumbai
+47.0,Male,PhD,Research Scientist,22.0,160000.0,On-site,Retail,Large,Chennai
+26.0,Male,Bachelor's,Junior Software Developer,1.0,35000.0,Remote,Manufacturing,Small,Kolkata
+38.0,Female,Master's,Public Relations Manager,10.0,90000.0,Hybrid,Education,Medium,Delhi
+45.0,Male,Bachelor's,Operations Analyst,20.0,110000.0,Hybrid,Technology,Small,Chennai
+31.0,Female,Bachelor's,Event Coordinator,5.0,45000.0,Remote,Healthcare,Large,Kolkata
+35.0,Male,Master's,Product Marketing Manager,8.0,95000.0,On-site,Healthcare,Large,Kolkata
+49.0,Female,Master's,Senior HR Manager,19.0,150000.0,Remote,Technology,Large,Mumbai
+33.0,Male,Bachelor's,Junior Web Developer,5.0,50000.0,On-site,Healthcare,Medium,Hyderabad
+39.0,Female,Master's,Senior Project Coordinator,13.0,80000.0,On-site,Retail,Large,Chennai
+44.0,Male,PhD,Chief Data Officer,16.0,220000.0,Remote,Education,Medium,Chennai
+30.0,Female,Bachelor's,Digital Content Producer,3.0,50000.0,Remote,Healthcare,Medium,Delhi
+36.0,Male,Bachelor's,IT Support Specialist,7.0,60000.0,Remote,Finance,Large,Hyderabad
+41.0,Female,Master's,Senior Marketing Analyst,14.0,100000.0,Remote,Education,Large,Mumbai
+28.0,Male,Bachelor's,Customer Success Manager,2.0,40000.0,Remote,Manufacturing,Small,Delhi
+42.0,Female,Master's,Senior Graphic Designer,15.0,110000.0,Hybrid,Technology,Large,Bangalore
+37.0,Male,Bachelor's,Software Project Manager,9.0,95000.0,Remote,Technology,Medium,Hyderabad
+50.0,Female,Bachelor's,Supply Chain Analyst,22.0,130000.0,Remote,Technology,Large,Pune
+32.0,Male,Master's,Senior Business Analyst,6.0,90000.0,On-site,Technology,Large,Pune
+23.0,Female,Bachelor's,Junior Marketing Analyst,0.5,35000.0,Hybrid,Healthcare,Medium,Hyderabad
+31.0,Male,Master's,Senior Financial Analyst,6.0,95000.0,Hybrid,Retail,Large,Kolkata
+40.0,Female,Bachelor's,Office Manager,15.0,65000.0,On-site,Technology,Medium,Delhi
+48.0,Male,PhD,Principal Engineer,20.0,170000.0,On-site,Finance,Medium,Pune
+29.0,Female,Bachelor's,Junior HR Generalist,3.0,45000.0,Hybrid,Education,Large,Chennai
+35.0,Male,Master's,Senior Product Manager,10.0,120000.0,Remote,Retail,Small,Chennai
+42.0,Female,Bachelor's,Sales Manager,17.0,100000.0,Remote,Technology,Small,Pune
+53.0,Male,Master's,Director of Marketing,25.0,180000.0,On-site,Consulting,Large,Mumbai
+33.0,Female,Bachelor's,Junior Operations Analyst,5.0,50000.0,Remote,Healthcare,Large,Kolkata
+38.0,Male,Bachelor's,Customer Service Manager,11.0,80000.0,Remote,Technology,Medium,Delhi
+44.0,Female,PhD,Senior Scientist,16.0,140000.0,Remote,Education,Small,Mumbai
+26.0,Male,Bachelor's,Junior Accountant,2.0,40000.0,Remote,Consulting,Medium,Kolkata
+37.0,Female,Master's,Senior HR Generalist,9.0,95000.0,Hybrid,Manufacturing,Large,Hyderabad
+45.0,Male,Bachelor's,Sales Operations Manager,18.0,110000.0,On-site,Finance,Small,Mumbai
+32.0,Female,Bachelor's,Marketing Coordinator,4.0,50000.0,Remote,Technology,Large,Mumbai
+34.0,Male,Master's,Senior Software Developer,8.0,105000.0,Hybrid,Retail,Large,Delhi
+50.0,Female,Master's,Director of Operations,21.0,160000.0,On-site,Manufacturing,Large,Chennai
+29.0,Male,Bachelor's,Junior Web Designer,3.0,45000.0,Remote,Manufacturing,Large,Kolkata
+40.0,Female,Master's,Senior Training Specialist,12.0,100000.0,Remote,Finance,Medium,Kolkata
+47.0,Male,PhD,Senior Research Scientist,22.0,160000.0,Hybrid,Technology,Small,Chennai
+27.0,Male,Bachelor's,Junior Sales Representative,1.0,35000.0,On-site,Finance,Small,Mumbai
+39.0,Female,Bachelor's,Administrative Assistant,10.0,55000.0,Hybrid,Consulting,Large,Kolkata
+46.0,Male,Master's,Senior Project Manager,19.0,140000.0,Hybrid,Technology,Large,Kolkata
+30.0,Female,Bachelor's,Junior Marketing Manager,4.0,50000.0,Hybrid,Retail,Large,Kolkata
+36.0,Male,Bachelor's,Junior Data Analyst,7.0,60000.0,Remote,Manufacturing,Small,Bangalore
+43.0,Female,Master's,Senior Product Marketing Manager,14.0,120000.0,Remote,Consulting,Medium,Mumbai
+28.0,Male,Bachelor's,Junior Business Analyst,2.0,40000.0,Hybrid,Technology,Medium,Pune
+41.0,Female,Master's,Senior Marketing Manager,13.0,110000.0,Hybrid,Consulting,Large,Chennai
+33.0,Male,Bachelor's,Junior Software Developer,5.0,50000.0,On-site,Manufacturing,Large,Chennai
+47.0,Male,Bachelor's,Senior Sales Manager,20.0,135000.0,Remote,Retail,Medium,Hyderabad
+25.0,Female,Master's,Junior Marketing Specialist,1.5,40000.0,On-site,Technology,Small,Pune
+34.0,Male,Bachelor's,Senior Business Analyst,8.0,90000.0,Remote,Manufacturing,Large,Hyderabad
+42.0,Female,PhD,Senior Data Scientist,16.0,150000.0,Hybrid,Consulting,Medium,Kolkata
+31.0,Male,Bachelor's,Junior Project Manager,4.0,60000.0,Remote,Finance,Large,Delhi
+38.0,Female,Bachelor's,Senior Accountant,10.0,80000.0,Hybrid,Manufacturing,Medium,Mumbai
+45.0,Male,Master's,Director of Sales,19.0,175000.0,Remote,Retail,Large,Pune
+29.0,Female,Bachelor's,Junior Recruiter,3.0,45000.0,Remote,Manufacturing,Small,Chennai
+36.0,Male,Master's,Senior Business Development Manager,11.0,120000.0,Hybrid,Education,Medium,Mumbai
+43.0,Female,PhD,Senior Product Designer,18.0,140000.0,Remote,Finance,Medium,Delhi
+26.0,Male,Bachelor's,Junior Customer Support Specialist,2.0,35000.0,Remote,Healthcare,Small,Delhi
+37.0,Female,Master's,Senior Marketing Analyst,9.0,95000.0,Hybrid,Healthcare,Small,Pune
+44.0,Male,Bachelor's,Senior IT Support Specialist,14.0,110000.0,On-site,Healthcare,Medium,Hyderabad
+32.0,Female,Bachelor's,Junior Financial Analyst,5.0,50000.0,Hybrid,Healthcare,Medium,Chennai
+33.0,Male,Master's,Senior Operations Manager,7.0,115000.0,Remote,Education,Large,Hyderabad
+51.0,Female,PhD,Director of Human Resources,23.0,185000.0,Hybrid,Healthcare,Medium,Kolkata
+28.0,Male,Bachelor's,Junior Software Engineer,2.0,40000.0,On-site,Consulting,Medium,Hyderabad
+39.0,Female,Bachelor's,Senior Sales Representative,12.0,90000.0,Remote,Manufacturing,Medium,Mumbai
+48.0,Male,Master's,Director of Product Management,21.0,175000.0,Remote,Manufacturing,Small,Kolkata
+30.0,Female,Bachelor's,Junior Copywriter,3.0,45000.0,Hybrid,Healthcare,Medium,Delhi
+35.0,Male,Bachelor's,Senior Marketing Coordinator,7.0,80000.0,Remote,Education,Medium,Hyderabad
+41.0,Female,Master's,Senior Human Resources Manager,13.0,120000.0,Hybrid,Manufacturing,Medium,Hyderabad
+27.0,Male,Bachelor's,Junior Business Development Associate,1.5,35000.0,Remote,Healthcare,Small,Hyderabad
+40.0,Female,Bachelor's,Senior Account Manager,14.0,110000.0,Remote,Education,Large,Kolkata
+46.0,Male,PhD,Senior Researcher,18.0,150000.0,On-site,Finance,Small,Hyderabad
+31.0,Female,Bachelor's,Junior HR Coordinator,4.0,50000.0,Remote,Retail,Medium,Delhi
+34.0,Male,Master's,Senior Software Engineer,9.0,105000.0,Hybrid,Technology,Medium,Mumbai
+50.0,Female,Master's,Director of Finance,20.0,180000.0,On-site,Technology,Small,Kolkata
+29.0,Male,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,On-site,Technology,Large,Mumbai
+,,,,,,On-site,Manufacturing,Large,Hyderabad
+43.0,Male,Bachelor's,Senior Project Manager,16.0,140000.0,Hybrid,Finance,Medium,Bangalore
+26.0,Female,Master's,Junior Data Scientist,1.5,45000.0,Remote,Finance,Large,Pune
+35.0,Male,Bachelor's,Senior Operations Analyst,7.0,85000.0,Remote,Healthcare,Large,Mumbai
+42.0,Female,PhD,Senior Marketing Manager,18.0,140000.0,Hybrid,Manufacturing,Large,Delhi
+31.0,Male,Bachelor's,Junior Accountant,4.0,50000.0,Hybrid,Retail,Medium,Pune
+38.0,Female,Bachelor's,Senior Human Resources Coordinator,10.0,80000.0,Remote,Manufacturing,Medium,Delhi
+46.0,Male,Master's,Director of Operations,20.0,170000.0,Hybrid,Finance,Small,Delhi
+29.0,Female,Bachelor's,Junior Sales Representative,2.0,40000.0,Remote,Healthcare,Medium,Bangalore
+37.0,Male,Master's,Senior Business Analyst,9.0,105000.0,Hybrid,Technology,Small,Pune
+44.0,Female,PhD,Senior UX Designer,15.0,145000.0,Remote,Retail,Medium,Mumbai
+27.0,Male,Bachelor's,Junior Product Manager,2.0,40000.0,Remote,Healthcare,Large,Kolkata
+36.0,Female,Bachelor's,Senior Marketing Specialist,8.0,85000.0,Remote,Manufacturing,Large,Kolkata
+43.0,Male,Bachelor's,Senior IT Project Manager,14.0,130000.0,On-site,Education,Large,Bangalore
+33.0,Female,Master's,Senior Financial Analyst,6.0,95000.0,Hybrid,Finance,Small,Pune
+34.0,Male,Bachelor's,Senior Quality Assurance Analyst,9.0,100000.0,Hybrid,Manufacturing,Large,Mumbai
+50.0,Female,PhD,Director of Sales and Marketing,22.0,180000.0,On-site,Healthcare,Small,Hyderabad
+28.0,Male,Bachelor's,Junior Operations Analyst,1.5,35000.0,Hybrid,Technology,Medium,Kolkata
+39.0,Female,Bachelor's,Senior Account Executive,12.0,95000.0,On-site,Healthcare,Small,Kolkata
+47.0,Male,Master's,Director of Business Development,19.0,170000.0,On-site,Technology,Large,Bangalore
+30.0,Female,Bachelor's,Junior Social Media Manager,3.0,45000.0,Remote,Retail,Small,Pune
+34.0,Male,Bachelor's,Senior Product Manager,7.0,95000.0,On-site,Finance,Medium,Kolkata
+40.0,Female,Master's,Senior Human Resources Specialist,13.0,120000.0,On-site,Manufacturing,Medium,Delhi
+28.0,Male,Bachelor's,Junior Business Analyst,2.0,40000.0,Remote,Healthcare,Small,Chennai
+41.0,Female,Bachelor's,Senior Marketing Coordinator,11.0,90000.0,On-site,Healthcare,Medium,Pune
+45.0,Male,PhD,Senior Data Analyst,17.0,155000.0,Remote,Healthcare,Large,Delhi
+32.0,Female,Bachelor's,Junior Account Manager,5.0,55000.0,On-site,Technology,Medium,Bangalore
+35.0,Male,Master's,Senior Software Developer,9.0,110000.0,Remote,Technology,Large,Mumbai
+49.0,Female,Master's,Director of Human Capital,21.0,180000.0,On-site,Technology,Small,Mumbai
+30.0,Male,Bachelor's,Junior Advertising Coordinator,3.0,45000.0,Hybrid,Retail,Large,Mumbai
+44.0,Male,Bachelor's,Senior Sales Manager,16.0,130000.0,On-site,Healthcare,Large,Mumbai
+27.0,Female,Master's,Junior UX Designer,1.5,45000.0,Hybrid,Technology,Medium,Delhi
+36.0,Male,Bachelor's,Senior Accountant,7.0,90000.0,Hybrid,Technology,Large,Kolkata
+41.0,Female,PhD,Senior Marketing Director,17.0,160000.0,On-site,Healthcare,Medium,Bangalore
+31.0,Male,Bachelor's,Junior HR Generalist,4.0,50000.0,Remote,Finance,Small,Delhi
+39.0,Female,Bachelor's,Senior Operations Manager,10.0,120000.0,On-site,Finance,Large,Mumbai
+47.0,Male,Master's,Director of Finance,20.0,170000.0,Remote,Technology,Medium,Chennai
+30.0,Female,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,On-site,Finance,Small,Bangalore
+38.0,Male,Master's,Senior IT Consultant,9.0,110000.0,Remote,Finance,Medium,Hyderabad
+45.0,Female,PhD,Senior Product Designer,15.0,150000.0,Hybrid,Manufacturing,Medium,Kolkata
+28.0,Male,Bachelor's,Junior Business Development Associate,2.0,40000.0,Hybrid,Education,Small,Bangalore
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Hybrid,Education,Large,Delhi
+44.0,Male,Bachelor's,Senior Software Engineer,14.0,130000.0,Remote,Technology,Small,Delhi
+34.0,Female,Master's,Senior Financial Advisor,6.0,100000.0,Remote,Manufacturing,Large,Hyderabad
+35.0,Male,Bachelor's,Senior Project Coordinator,9.0,95000.0,Hybrid,Technology,Small,Hyderabad
+50.0,Female,PhD,Director of Operations,22.0,180000.0,Remote,Technology,Medium,Mumbai
+29.0,Male,Bachelor's,Junior Business Operations Analyst,1.5,35000.0,Remote,Manufacturing,Medium,Bangalore
+40.0,Female,Bachelor's,Senior Sales Representative,12.0,100000.0,On-site,Technology,Medium,Chennai
+48.0,Male,Master's,Director of Marketing,19.0,170000.0,Remote,Education,Medium,Delhi
+31.0,Female,Bachelor's,Junior Social Media Specialist,3.0,45000.0,Remote,Finance,Medium,Mumbai
+33.0,Male,Bachelor's,Senior Product Development Manager,7.0,100000.0,On-site,Technology,Medium,Kolkata
+42.0,Female,Master's,Senior Human Resources Manager,13.0,140000.0,Hybrid,Consulting,Medium,Pune
+28.0,Male,Bachelor's,Junior Financial Analyst,2.0,40000.0,Hybrid,Manufacturing,Small,Pune
+40.0,Female,Bachelor's,Senior Marketing Manager,11.0,105000.0,Hybrid,Retail,Small,Bangalore
+46.0,Male,PhD,Senior Data Scientist,18.0,160000.0,Remote,Finance,Medium,Kolkata
+33.0,Female,Bachelor's,Junior Operations Manager,5.0,70000.0,Remote,Manufacturing,Small,Kolkata
+37.0,Male,Master's,Senior Software Architect,9.0,120000.0,Remote,Technology,Large,Kolkata
+51.0,Female,Master's,Director of Human Resources,21.0,190000.0,Hybrid,Retail,Medium,Hyderabad
+30.0,Male,Bachelor's,Junior Marketing Specialist,3.0,45000.0,Remote,Technology,Small,Mumbai
+43.0,Male,Bachelor's,Senior Project Manager,15.0,120000.0,Hybrid,Consulting,Small,Pune
+27.0,Female,Master's,Junior Research Scientist,1.5,50000.0,On-site,Healthcare,Large,Mumbai
+35.0,Male,Bachelor's,Senior Operations Analyst,8.0,85000.0,Remote,Consulting,Small,Chennai
+42.0,Female,PhD,Senior Marketing Manager,13.0,140000.0,Remote,Manufacturing,Large,Kolkata
+32.0,Male,Bachelor's,Junior Sales Representative,3.0,45000.0,On-site,Healthcare,Small,Pune
+37.0,Female,Bachelor's,Senior Financial Analyst,9.0,100000.0,Remote,Education,Medium,Delhi
+45.0,Male,Master's,Senior Software Developer,16.0,140000.0,Hybrid,Technology,Medium,Delhi
+33.0,Female,Bachelor's,Junior Operations Analyst,5.0,70000.0,Remote,Technology,Medium,Bangalore
+39.0,Male,Bachelor's,Senior Marketing Specialist,10.0,120000.0,Hybrid,Manufacturing,Small,Mumbai
+44.0,Female,PhD,Senior HR Manager,18.0,160000.0,Hybrid,Retail,Medium,Hyderabad
+29.0,Male,Bachelor's,Junior Business Analyst,1.5,40000.0,Remote,Education,Medium,Delhi
+38.0,Female,Bachelor's,Senior Product Manager,10.0,120000.0,Hybrid,Healthcare,Large,Mumbai
+46.0,Male,PhD,Senior Data Analyst,19.0,150000.0,Remote,Healthcare,Medium,Mumbai
+34.0,Female,Bachelor's,Junior Marketing Analyst,6.0,70000.0,Remote,Education,Large,Mumbai
+36.0,Male,Bachelor's,Senior Operations Manager,8.0,95000.0,On-site,Retail,Large,Kolkata
+49.0,Female,Master's,Director of Marketing,21.0,180000.0,Remote,Consulting,Small,Bangalore
+31.0,Male,Bachelor's,Junior Financial Analyst,3.0,50000.0,On-site,Retail,Medium,Chennai
+41.0,Female,Bachelor's,Senior Project Coordinator,11.0,95000.0,Remote,Retail,Small,Chennai
+47.0,Male,Master's,Director of Operations,20.0,170000.0,On-site,Education,Medium,Hyderabad
+30.0,Female,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,On-site,Manufacturing,Large,Bangalore
+38.0,Male,Master's,Senior IT Consultant,9.0,110000.0,Remote,Manufacturing,Small,Pune
+45.0,Female,PhD,Senior Product Designer,15.0,150000.0,Hybrid,Technology,Small,Delhi
+28.0,Male,Bachelor's,Junior Business Development Associate,2.0,40000.0,On-site,Technology,Large,Chennai
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Hybrid,Technology,Small,Bangalore
+44.0,Male,Bachelor's,Senior Software Engineer,14.0,130000.0,On-site,Consulting,Large,Chennai
+34.0,Female,Master's,Senior Financial Advisor,6.0,100000.0,Hybrid,Consulting,Small,Bangalore
+35.0,Male,Bachelor's,Senior Project Coordinator,9.0,95000.0,Remote,Consulting,Medium,Pune
+50.0,Female,PhD,Director of Operations,22.0,180000.0,On-site,Technology,Large,Kolkata
+29.0,Male,Bachelor's,Junior Business Operations Analyst,1.5,350.0,Remote,Healthcare,Medium,Delhi
+,,,,,,On-site,Technology,Small,Kolkata
+37.0,Female,Bachelor's,Senior Financial Manager,10.0,120000.0,Hybrid,Finance,Small,Chennai
+46.0,Male,PhD,Senior Data Scientist,18.0,160000.0,Hybrid,Retail,Medium,Delhi
+31.0,Female,Bachelor's,Junior Marketing Coordinator,3.0,50000.0,Remote,Manufacturing,Small,Bangalore
+42.0,Male,Bachelor's,Senior Operations Manager,12.0,110000.0,Remote,Finance,Small,Delhi
+29.0,Female,Bachelor's,Junior Sales Representative,1.5,40000.0,On-site,Finance,Large,Delhi
+36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0,Remote,Healthcare,Medium,Hyderabad
+44.0,Female,Master's,Senior HR Specialist,15.0,140000.0,Remote,Retail,Large,Bangalore
+33.0,Male,Bachelor's,Junior Operations Manager,4.0,60000.0,Hybrid,Education,Large,Hyderabad
+39.0,Female,Bachelor's,Senior Marketing Coordinator,9.0,110000.0,Hybrid,Healthcare,Medium,Kolkata
+45.0,Male,PhD,Senior Data Engineer,16.0,150000.0,On-site,Consulting,Small,Pune
+32.0,Female,Bachelor's,Junior Marketing Manager,4.0,60000.0,On-site,Healthcare,Small,Pune
+37.0,Male,Bachelor's,Senior Financial Analyst,8.0,90000.0,On-site,Manufacturing,Small,Hyderabad
+47.0,Female,Master's,Director of Marketing,20.0,180000.0,Remote,Technology,Large,Mumbai
+30.0,Male,Bachelor's,Junior Business Analyst,2.0,40000.0,Remote,Technology,Large,Mumbai
+38.0,Female,Bachelor's,Senior Project Manager,9.0,120000.0,Remote,Manufacturing,Small,Delhi
+46.0,Male,PhD,Senior Data Analyst,17.0,160000.0,Remote,Technology,Small,Mumbai
+34.0,Female,Bachelor's,Junior Financial Analyst,5.0,70000.0,Remote,Healthcare,Small,Kolkata
+36.0,Male,Bachelor's,Senior Product Manager,8.0,95000.0,Hybrid,Manufacturing,Large,Hyderabad
+49.0,Female,Master's,Director of Operations,21.0,180000.0,On-site,Education,Large,Delhi
+31.0,Male,Bachelor's,Junior Operations Analyst,3.0,50000.0,Hybrid,Finance,Small,Delhi
+41.0,Female,Bachelor's,Senior Project Coordinator,11.0,95000.0,Remote,Technology,Large,Delhi
+47.0,Male,Master's,Director of Marketing,19.0,170000.0,Remote,Healthcare,Small,Chennai
+29.0,Female,Bachelor's,Junior Business Development Associate,1.5,35000.0,On-site,Manufacturing,Large,Delhi
+35.0,Male,Bachelor's,Senior Financial Manager,9.0,100000.0,Remote,Healthcare,Large,Bangalore
+44.0,Female,PhD,Senior Product Designer,15.0,150000.0,On-site,Education,Small,Hyderabad
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,Hybrid,Education,Large,Hyderabad
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Remote,Consulting,Small,Hyderabad
+44.0,Male,Bachelor's,Senior Software Engineer,13.0,130000.0,On-site,Consulting,Large,Bangalore
+32.0,Male,Bachelor's,Junior Product Manager,4.0,65000.0,Hybrid,Healthcare,Small,Kolkata
+38.0,Female,Bachelor's,Senior Business Analyst,10.0,110000.0,Hybrid,Finance,Medium,Mumbai
+49.0,Male,PhD,Director of Operations,21.0,180000.0,Hybrid,Healthcare,Small,Delhi
+29.0,Female,Bachelor's,Junior Marketing Specialist,2.0,40000.0,On-site,Retail,Large,Kolkata
+35.0,Male,Bachelor's,Senior Business Development Manager,7.0,90000.0,Hybrid,Finance,Small,Chennai
+45.0,Female,Master's,Senior HR Manager,14.0,140000.0,On-site,Finance,Medium,Hyderabad
+33.0,Male,Bachelor's,Junior Financial Analyst,4.0,60000.0,On-site,Healthcare,Medium,Chennai
+40.0,Female,Bachelor's,Senior Marketing Manager,12.0,130000.0,Remote,Technology,Small,Pune
+44.0,Male,PhD,Senior Data Scientist,16.0,160000.0,Remote,Consulting,Large,Kolkata
+30.0,Female,Bachelor's,Junior Operations Coordinator,2.0,40000.0,On-site,Healthcare,Medium,Pune
+37.0,Male,Bachelor's,Senior Marketing Analyst,9.0,100000.0,Hybrid,Healthcare,Large,Delhi
+48.0,Female,Master's,Director of HR,20.0,180000.0,Remote,Consulting,Medium,Mumbai
+31.0,Male,Bachelor's,Junior Project Manager,3.0,55000.0,Hybrid,Technology,Medium,Pune
+38.0,Female,Bachelor's,Senior Operations Coordinator,9.0,120000.0,Remote,Technology,Small,Hyderabad
+45.0,Male,PhD,Senior Data Engineer,16.0,150000.0,Hybrid,Technology,Large,Hyderabad
+33.0,Female,Bachelor's,Junior Marketing Manager,5.0,70000.0,Remote,Healthcare,Large,Chennai
+36.0,Male,Bachelor's,Senior Business Analyst,8.0,95000.0,Hybrid,Healthcare,Medium,Pune
+49.0,Female,Master's,Director of Marketing,21.0,180000.0,On-site,Retail,Small,Kolkata
+31.0,Male,Bachelor's,Junior Operations Analyst,3.0,50000.0,On-site,Manufacturing,Medium,Mumbai
+42.0,Female,Bachelor's,Senior Project Manager,12.0,120000.0,Hybrid,Manufacturing,Medium,Bangalore
+47.0,Male,Master's,Director of Marketing,19.0,170000.0,Hybrid,Consulting,Medium,Chennai
+29.0,Female,Bachelor's,Junior Business Development Associate,1.5,35000.0,Hybrid,Finance,Large,Delhi
+35.0,Male,Bachelor's,Senior Financial Manager,9.0,100000.0,Remote,Education,Small,Delhi
+44.0,Female,PhD,Senior Product Designer,15.0,150000.0,On-site,Education,Small,Pune
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,Remote,Finance,Large,Mumbai
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Hybrid,Manufacturing,Small,Bangalore
+44.0,Male,Bachelor's,Senior Software Engineer,13.0,130000.0,Hybrid,Finance,Large,Mumbai
+34.0,Female,Master's,Senior Financial Advisor,6.0,80000.0,On-site,Education,Medium,Kolkata
+36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0,On-site,Retail,Large,Chennai
+30.0,Female,Bachelor's,Junior HR Coordinator,2.0,40000.0,Remote,Manufacturing,Large,Pune
+37.0,Male,Bachelor's,Senior Business Development Manager,10.0,120000.0,Hybrid,Finance,Medium,Mumbai
+45.0,Female,Master's,Senior Marketing Manager,16.0,160000.0,On-site,Education,Large,Chennai
+32.0,Male,Bachelor's,Junior Financial Advisor,4.0,65000.0,Hybrid,Finance,Small,Hyderabad
+39.0,Female,Bachelor's,Senior Project Manager,12.0,130000.0,Hybrid,Technology,Medium,Bangalore
+47.0,Male,PhD,Director of Engineering,20.0,180000.0,Hybrid,Finance,Small,Chennai
+29.0,Female,Bachelor's,Junior Marketing Analyst,2.0,40000.0,On-site,Technology,Small,Kolkata
+36.0,Male,Bachelor's,Senior Operations Manager,9.0,100000.0,Remote,Finance,Large,Kolkata
+43.0,Female,PhD,Senior Data Scientist,15.0,150000.0,On-site,Manufacturing,Medium,Mumbai
+32.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,On-site,Healthcare,Small,Pune
+38.0,Female,Bachelor's,Senior Business Analyst,10.0,110000.0,Remote,Education,Large,Hyderabad
+48.0,Male,Master's,Director of Marketing,21.0,180000.0,On-site,Finance,Small,Bangalore
+31.0,Female,Bachelor's,Junior Business Development Associate,3.0,50000.0,On-site,Retail,Medium,Hyderabad
+40.0,Male,Bachelor's,Senior Financial Analyst,12.0,130000.0,Hybrid,Retail,Small,Chennai
+45.0,Female,PhD,Senior UX Designer,16.0,160000.0,On-site,Consulting,Large,Bangalore
+33.0,Male,Bachelor's,Junior Product Manager,4.0,60000.0,Hybrid,Retail,Large,Pune
+36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0,Remote,Manufacturing,Medium,Delhi
+47.0,Male,Master's,Director of Operations,19.0,170000.0,On-site,Education,Medium,Pune
+29.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,Remote,Retail,Small,Delhi
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0,On-site,Consulting,Small,Kolkata
+44.0,Female,PhD,Senior Business Analyst,15.0,150000.0,On-site,Manufacturing,Large,Bangalore
+33.0,Male,Bachelor's,Junior Marketing Specialist,5.0,70000.0,On-site,Technology,Large,Chennai
+35.0,Female,Bachelor's,Senior Financial Manager,8.0,90000.0,Hybrid,Technology,Medium,Delhi
+43.0,Male,Master's,Director of Marketing,18.0,170000.0,Hybrid,Education,Medium,Pune
+31.0,Female,Bachelor's,Junior Financial Analyst,3.0,50000.0,Remote,Manufacturing,Medium,Delhi
+41.0,Male,Bachelor's,Senior Product Manager,14.0,150000.0,On-site,Manufacturing,Large,Chennai
+44.0,Female,PhD,Senior Data Engineer,16.0,160000.0,Hybrid,Retail,Large,Delhi
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,On-site,Retail,Large,Mumbai
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Remote,Healthcare,Small,Pune
+45.0,Male,Master's,Director of Engineering,19.0,180000.0,On-site,Finance,Large,Chennai
+28.0,Female,Bachelor's,Junior Operations Manager,1.0,35000.0,Remote,Consulting,Medium,Pune
+36.0,Male,Bachelor's,Senior Business Development Manager,8.0,110000.0,On-site,Manufacturing,Small,Bangalore
+44.0,Female,PhD,Senior Data Scientist,16.0,160000.0,Remote,Healthcare,Small,Hyderabad
+31.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,Hybrid,Consulting,Medium,Delhi
+38.0,Female,Bachelor's,Senior Business Analyst,10.0,110000.0,Hybrid,Education,Medium,Chennai
+48.0,Male,Master's,Director of Marketing,21.0,180000.0,Hybrid,Technology,Medium,Hyderabad
+31.0,Female,Bachelor's,Junior Business Development Associate,3.0,50000.0,On-site,Healthcare,Small,Delhi
+40.0,Male,Bachelor's,Senior Financial Analyst,12.0,130000.0,Remote,Consulting,Small,Hyderabad
+45.0,Female,PhD,Senior UX Designer,16.0,160000.0,Hybrid,Consulting,Large,Chennai
+33.0,Male,Bachelor's,Junior Product Manager,4.0,60000.0,On-site,Finance,Large,Kolkata
+36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0,Hybrid,Finance,Medium,Kolkata
+47.0,Male,Master's,Director of Operations,19.0,170000.0,Remote,Healthcare,Medium,Mumbai
+29.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,Hybrid,Healthcare,Medium,Kolkata
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0,Remote,Finance,Large,Hyderabad
+44.0,Female,PhD,Senior Business Analyst,15.0,150000.0,Hybrid,Education,Small,Bangalore
+33.0,Male,Bachelor's,Junior Marketing Specialist,5.0,70000.0,Remote,Manufacturing,Large,Pune
+35.0,Female,Bachelor's,Senior Financial Manager,8.0,90000.0,Hybrid,Finance,Medium,Bangalore
+43.0,Male,Master's,Director of Marketing,18.0,170000.0,On-site,Retail,Large,Delhi
+31.0,Female,Bachelor's,Junior Financial Analyst,3.0,50000.0,Hybrid,Consulting,Small,Hyderabad
+41.0,Male,Bachelor's,Senior Product Manager,14.0,150000.0,On-site,Consulting,Medium,Bangalore
+44.0,Female,PhD,Senior Data Engineer,16.0,160000.0,Hybrid,Retail,Large,Mumbai
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,On-site,Education,Small,Mumbai
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Hybrid,Healthcare,Large,Kolkata
+43.0,Male,Master's,Director of Operations,19.0,170000.0,Hybrid,Technology,Small,Hyderabad
+29.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,Hybrid,Manufacturing,Medium,Kolkata
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0,Hybrid,Technology,Medium,Hyderabad
+44.0,Female,PhD,Senior Business Analyst,15.0,150000.0,Hybrid,Education,Small,Delhi
